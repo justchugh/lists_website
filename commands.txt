@@ -1,0 +1,3 @@
+virtualenv mypython
+source /Users/sc/Desktop/Applus/Code/my-app/my-app-django/mypython/bin/activate
+python manage.py runserver 
